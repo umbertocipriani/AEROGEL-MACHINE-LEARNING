@@ -54,4 +54,4 @@ We evaluated three distinct classification algorithms to find the most accurate 
 3.  **Run the Analysis:** Open and execute `main.ipynb` to reproduce the training pipeline.
 
 ---
-*Developed by Group 26: Giovanni Lolli, Umberto Cipriani, and Peter Luigi Festa.*
+
